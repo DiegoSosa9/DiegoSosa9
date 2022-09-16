@@ -1,4 +1,4 @@
-<p style="font-size: 30px">👋 Hi, I’m @DiegoSosa9</p>
+<p style="font-size: 30px">👋 Hi, I’m Diego</p>
 <hr/>
 My name is Diego Sosa, I am 23 years old.
 
