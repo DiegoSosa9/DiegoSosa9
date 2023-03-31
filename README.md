@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Diego</h1>
 
-My name is Diego Sosa, I am 23 years old. I am a computer engineering student.
+My name is Diego Sosa, I am 24 years old. I am a computer engineering student.
 
 <h2> Education 👨‍🎓 </h2>
 
@@ -12,8 +12,12 @@ My name is Diego Sosa, I am 23 years old. I am a computer engineering student.
 >HTML</br>
 >CSS</br>
 >Javascript</br>
+>C#</br>
 >JAVA</br>
 >MySQL</br>
+>NodeJS</br>
+>API Rest</br>
+>MongoDB</br>
 
 <h2> Contact 📲</h2>
 
